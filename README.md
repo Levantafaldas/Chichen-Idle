@@ -33,4 +33,6 @@ nos permite acceder a las opciones, guardar la partida o salir.
 
 ## Mecanica del juego
 
-Al principio del juego se te pedira que selecciones un pais y region de una lista, despues de eso se te regalara una gallina de la seleccion basica de gallinas
+Al principio del juego se te pedira que selecciones un pais y region de una lista, despues de eso se te regalara una gallina de la seleccion basica.
+
+Después de estas selecciones se iniciara el juego, se tendra que dar de comer a la gallina para que esta ponga huevos, al tener los primeros 100 podremos obtar a comprar mas gallinas, a los 500 podremos automatizar el dar de comer a la gallina, lo que iniciara la parte idle del juego.
